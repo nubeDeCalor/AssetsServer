@@ -1,5 +1,5 @@
 # Flet Assets Server Example
-
+![Visitor Count](https://profile-counter.glitch.me/AssetsServer/count.svg)<br>
 A simple demonstration of how to use `flet-assets` to serve static files in your Flet applications.
 
 ## Overview
